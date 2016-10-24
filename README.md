@@ -1,2 +1,2 @@
-# fall25
-playing with raspberry pi
+# fall25!
+Playing with raspberry pi
